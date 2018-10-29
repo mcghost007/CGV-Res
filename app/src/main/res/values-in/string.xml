@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tap_text">Pilih Bahasa yang diinginkan gaes :</string>
+    <string name="btn_en">Bahasa Inggris</string>
+    <string name="btn_in">Bahasa Indonesia</string>
+</resources>

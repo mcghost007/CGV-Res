@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">CGV</string>
+
+    <string name="tap_text">Select any language below :</string>
+    <string name="btn_en">English</string>
+    <string name="btn_in">Bahasa Indonesia</string>
+
+</resources>
